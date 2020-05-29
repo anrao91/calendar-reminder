@@ -1,6 +1,6 @@
 # Calendar with Reminders
 
-## Project is published using Github Pages: <center>[**DEMO**](https://anrao91.github.io/calendar-reminder/)</center>
+### Project is published using Github Pages: <center>[**DEMO**](https://anrao91.github.io/calendar-reminder/)</center>
 
 ![alt text](https://i.imgur.com/45OwGM8.png)
 

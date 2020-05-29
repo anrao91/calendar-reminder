@@ -1,0 +1,5 @@
+.month .days {
+	background: wheat;
+	display: flex;
+	flex-wrap: wrap;
+}

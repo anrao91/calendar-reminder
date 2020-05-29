@@ -1,0 +1,48 @@
+form textarea,
+form .rc-time-picker-input {
+	font-family: inherit;
+	width: auto;
+	background: dimgray;
+	border: 2px solid #333;
+	border-top: 0;
+	border-left: 0;
+	border-radius: 3px;
+	padding: 3px 5px;
+	margin: 0;
+	outline: 0;
+	cursor: pointer;
+}
+form textarea,
+form textarea::placeholder,
+form .rc-time-picker-input,
+form .rc-time-picker-input::placeholder {
+	color: #fff;
+}
+
+form textarea {
+	font-family: inherit;
+}
+
+form .rc-picker-wrapper {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-column-gap: 0.5rem;
+}
+
+form .rc-picker-wrapper .color-picker {
+	display: inline-block;
+	margin-top: 4px;
+}
+
+form .btn-submit,
+form .btn-cancel {
+	margin-top: 0.5rem;
+}
+
+form .btn-cancel {
+	margin-left: 5px;
+}
+
+.rc-time-picker-panel {
+	font-family: Arial, Helvetica, sans-serif;
+}

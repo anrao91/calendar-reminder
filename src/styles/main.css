@@ -1,0 +1,24 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat:600";
+@import "https://use.fontawesome.com/releases/v5.2.0/css/all.css";
+@import "~antd/dist/antd.css";
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	font: normal 16px "Montserrat", sans-serif;
+	padding: 15px;
+}
+
+button {
+	background: none;
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+}

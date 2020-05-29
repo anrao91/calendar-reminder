@@ -1,8 +1,8 @@
 # Calendar with Reminders
 
-![alt text](https://i.imgur.com/45OwGM8.png)
-
 [**DEMO**](https://anrao91.github.io/calendar-reminder/)
+
+![alt text](https://i.imgur.com/45OwGM8.png)
 
 Here's what the Redux store looks like:
 
